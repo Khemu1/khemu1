@@ -4,7 +4,6 @@
 
 ✨ Creating bugs since 2022  
 📚 Currently learning React and Next.js  
-🎯 Goal: Completing my first e-commerce site
 
 ## I Code With
 
