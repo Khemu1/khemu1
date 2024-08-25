@@ -26,7 +26,7 @@
 ## Projects
 
 ### 🛒 [E-Commerce Site](https://github.com/Khemu1/Omni-Store-E-Commerce)  
-_Description:_ Building a full-featured e-commerce site with React, and Express.  
+_Description: A full-featured e-commerce site with React, and Express.  
 
 ### 📚 [Promptopia](https://github.com/Khemu1/promptopia)  
 _Description:_ A web app for sharing AI prompts.  
