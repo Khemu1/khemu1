@@ -38,7 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongoose/mongoose-original.svg" height="40" alt="Mongoose logo" />
 
   <img width="12" />
-
+  <br>
+  <br>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
