@@ -1,8 +1,7 @@
 ## About Me
 
 ✨ Passionate developer creating bugs since 2022  
-📚 Currently diving into Vue js
-🚀 Always eager to learn and take on new challenges  
+📚 Currently diving into Vue.js
 
 ---
 
@@ -21,14 +20,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
 
   <img width="12" />
-
+  <br>
+  <br>
   <!-- Backend Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
 
   <img width="12" />
-
+  <br>
+  <br>
   <!-- ORMs -->
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prisma/prisma-original.svg" height="40" alt="Prisma logo" />
   <img width="12" />
