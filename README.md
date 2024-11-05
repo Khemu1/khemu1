@@ -65,6 +65,5 @@ _Description:_ Showcasing various cars with detailed specifications, including i
 
 ## Connect with Me
 
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ali-hegazy-379030254/))
-
+- [LinkedIn](https://www.linkedin.com/in/ali-hegazy-379030254/)
 ---
