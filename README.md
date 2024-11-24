@@ -63,6 +63,15 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/khemu1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical&hide=java" alt="Top Languages" />
+  </a>
+</div>
+
+
+---
+
 ## Projects
 
 ### 🛒 [E-Commerce Site](https://github.com/Khemu1/Omni-Store-E-Commerce)  
