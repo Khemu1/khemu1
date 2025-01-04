@@ -74,6 +74,11 @@
 
 ## Projects
 
+### [SyntaxError](https://sytnax-error.vercel.app/)
+_Description:_ A website that showcases available courses and allows users to subscribe. It features a comprehensive
+dashboard for managing courses and admins, with an integrated quiz system that enables course
+creators to design and manage quizzes, review grading workflows, and display submissions effectively.
+
 ### 🛒 [E-Commerce Site](https://github.com/Khemu1/Omni-Store-E-Commerce)  
 _Description:_ A full-featured e-commerce site built with React and Express. Features product listings, user authentication, and a shopping cart.
 
