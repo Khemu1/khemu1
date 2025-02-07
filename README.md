@@ -67,8 +67,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical&hide=java" alt="Top Languages" />
   </a>
   <a href="https://github.com/khemu1">
-    <img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />  </a>
 </div>
 
 
