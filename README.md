@@ -1,7 +1,7 @@
 ## About Me
 
 Passionate developer creating bugs since 2022  
-📚 Currently diving into Node.Js  
+📚 Currently diving into Node.Js & Nest.Js
 📄 [My Portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
 ---
 
