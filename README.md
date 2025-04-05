@@ -41,6 +41,8 @@ Passionate developer creating bugs since 2022
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongoose/mongoose-original.svg" height="40" alt="Mongoose logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain.svg" height="40" alt="Graphql logo" />
 
   <br><br>
 
@@ -52,6 +54,9 @@ Passionate developer creating bugs since 2022
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
+
+
+  
 
   <br><br>
 
