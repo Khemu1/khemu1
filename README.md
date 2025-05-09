@@ -86,8 +86,8 @@ A lightweight URL shortener with tracking and analytics features.
 ### 🎥 [Video Streaming App](https://github.com/Khemu1/Code-Clause-Internship-Video-Streaming-Application)  
 A clean and responsive app for streaming videos.
 
-### 🚗 [Car Showcase](https://github.com/Khemu1/car-showcase)  
-Displays detailed car data including images, specs, and categories.
+### 📝 [Blogy](https://github.com/Khemu1/blogy)  
+A full-featured blogging platform that supports Markdown, chunked media uploads and comment management.
 
 ---
 
