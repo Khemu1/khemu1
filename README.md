@@ -2,7 +2,7 @@
 
 Self-driven **Backend-leaning Full Stack Developer** passionate about building scalable, efficient, and real-world web applications.  
 🐞 Debugging my own bugs since 2022  
-📚 Currently diving deeper into **Node.js**, **NestJS**, and backend architecture  
+📚 Currently diving deeper into **Databases** and backend architecture  
 📄 [My Portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
 
 ---
