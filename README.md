@@ -1,33 +1,32 @@
-## About Me
+## 👨‍💻 About Me
 
-Self-driven **Backend-leaning Full Stack Developer** passionate about building scalable, efficient, and real-world web applications.  
-🐞 Debugging my own bugs since 2022  
-📚 Currently diving deeper into **Databases** and backend architecture  
-📄 [My Portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
+I'm a self-driven **Full Stack Developer** with a strong focus on backend development, passionate about building scalable, efficient, and real-world web applications.
 
----
+🐞 Debugging my own bugs since **2022**  
+📚 Currently exploring **Databases** and backend architecture in depth  
+🌐 [Check out my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
 
-## 📌 Projects
+
+## 🚀 Projects
 
 ### 🧠 [SyntaxError](https://sytnax-error.vercel.app/)
-An online course platform with dashboards for admin, course management, and a dynamic quiz system.
+An online course platform featuring admin dashboards, course management tools, and a dynamic quiz system.
 
-### 🛒 [E-Commerce Site](https://github.com/Khemu1/Omni-Store-E-Commerce)  
-A full-featured e-commerce site built with React and Express. Supports user auth, shopping cart, and more.
+### 🛒 [Omni-Store E-Commerce](https://github.com/Khemu1/Omni-Store-E-Commerce)  
+A full-featured e-commerce platform built with React and Express. Includes user auth, shopping cart, order handling, and more.
 
 ### 📚 [Promptopia](https://github.com/Khemu1/promptopia)  
-A prompt-sharing app for the AI community. Users can create, explore, and edit prompts.
+A prompt-sharing app for the AI community — create, explore, and edit prompts with ease.
 
 ### 🔗 [Link Shortener](https://github.com/Khemu1/Code-Clause-Internship-Link-Shortner)  
-A lightweight URL shortener with tracking and analytics features.
+A lightweight URL shortener with click tracking and analytics.
 
 ### 🎥 [Video Streaming App](https://github.com/Khemu1/Code-Clause-Internship-Video-Streaming-Application)  
-A clean and responsive app for streaming videos.
+A responsive app for video streaming with a clean UI.
 
 ### 📝 [Blogy](https://github.com/Khemu1/blogy)  
-A full-featured blogging platform that supports Markdown, chunked media uploads and comment management.
+A full-featured blogging platform supporting Markdown, chunked media uploads, and comment management.
 
----
 
 ## ⚙️ Tech Stack & Tools
 
@@ -49,7 +48,7 @@ A full-featured blogging platform that supports Markdown, chunked media uploads 
 <!-- ORMs -->
 <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
-
+<br><br>
 
 <!-- Databases -->
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
@@ -61,24 +60,23 @@ A full-featured blogging platform that supports Markdown, chunked media uploads 
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Streak (most accurate contributions summary) -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khemu1&theme=radical&hide_border=false" alt="GitHub Streak" />
-</br>
+<img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<br><br>
 
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khemu1&theme=radical&hide_border=true" alt="GitHub Streak" />
+<br><br>
 
-<!-- GitHub Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 
 </div>
 
----
 
 ## 🤝 Connect With Me
 
