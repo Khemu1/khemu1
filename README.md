@@ -43,16 +43,13 @@ A full-featured blogging platform that supports Markdown, chunked media uploads 
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest" />
-<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="60" width="60" alt="Puppeteer" />
-
 <br><br>
 
 <!-- ORMs -->
 <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
 
-<br><br>
 
 <!-- Databases -->
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
