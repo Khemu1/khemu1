@@ -5,6 +5,8 @@ Self-driven **Backend-leaning Full Stack Developer** passionate about building s
 📚 Currently diving deeper into **Databases** and backend architecture  
 📄 [My Portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
 
+---
+
 ## 📌 Projects
 
 ### 🧠 [SyntaxError](https://sytnax-error.vercel.app/)
@@ -27,38 +29,42 @@ A full-featured blogging platform that supports Markdown, chunked media uploads 
 
 ---
 
+## ⚙️ Tech Stack & Tools
+
 <div align="center">
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-  <br><br>
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=js,ts" />
+<br><br>
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,bootstrap,redux,tailwind" />
-  <br><br>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,bootstrap,redux,tailwind" />
+<br><br>
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="60" width="60" alt="Jest" />
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="60" width="60" alt="Puppeteer" />
 
 <br><br>
 
-  <!-- ORMs -->
-  <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
+<!-- ORMs -->
+<img src="https://skillicons.dev/icons?i=prisma,sequelize" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
 
+<br><br>
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
-  <br><br>
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+<br><br>
 
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=supabase,aws,postman,docker,githubactions,cloudflare,workers" />
+<!-- Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=supabase,aws,postman,docker,githubactions,cloudflare,workers" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-original.svg" height="40" width="40" alt="Travis CI" />
 
 </div>
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -66,6 +72,7 @@ A full-featured blogging platform that supports Markdown, chunked media uploads 
   <a href="https://github.com/khemu1">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical" alt="Top Languages" />
   </a>
+  <br/>
   <a href="https://github.com/khemu1">
     <img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
