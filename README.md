@@ -66,13 +66,16 @@ A full-featured blogging platform that supports Markdown, chunked media uploads 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/khemu1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-  <br/>
-  <a href="https://github.com/khemu1">
-    <img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
+
+<!-- GitHub Streak (most accurate contributions summary) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khemu1&theme=radical&hide_border=false" alt="GitHub Streak" />
+</br>
+
+
+<!-- GitHub Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+
+
 </div>
 
 ---
