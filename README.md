@@ -45,9 +45,8 @@ A full-featured blogging platform that supports Markdown, chunked media uploads 
 
   <!-- ORMs -->
   <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
 
-  <br><br>
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
