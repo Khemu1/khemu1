@@ -53,8 +53,7 @@ A full-featured blogging platform that supports Markdown, chunked media uploads 
   <br><br>
 
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,postman,docker,githubactions,cloudflare" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflareworkers/cloudflareworkers-original.svg" height="40" width="40" alt="Cloudflare Workers" />
+  <img src="https://skillicons.dev/icons?i=aws,postman,docker,githubactions,cloudflare,workers" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-original.svg" height="40" width="40" alt="Travis CI" />
 
 </div>
