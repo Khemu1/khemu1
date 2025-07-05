@@ -72,7 +72,10 @@ Self-driven **Backend-leaning Full Stack Developer** passionate about building s
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflareworkers/cloudflareworkers-original.svg" height="40" width="40" alt="Cloudflare Workers" />
 
-<br><br>
+
+<!-- Storage -->
+<span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/cloud/aws-s3.svg" height="40" alt="AWS S3" /></span>
+<span><img src="https://avatars.githubusercontent.com/u/59522545?s=200&v=4" height="40" alt="Cloudflare R2" /></span>
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="Postman" />
@@ -83,8 +86,8 @@ Self-driven **Backend-leaning Full Stack Developer** passionate about building s
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" width="40" alt="GitHub Actions" />
 
-</div>
 
+</div>
 ---
 
 ## 📌 Projects
