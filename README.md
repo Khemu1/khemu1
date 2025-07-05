@@ -3,7 +3,7 @@
 I'm a self-driven **Full Stack Developer** with a strong focus on backend development, passionate about building scalable, efficient, and real-world web applications.
 
 🐞 Debugging my own bugs since **2022**  
-📚 Currently exploring **Databases** and backend architecture in depth  
+📚 Currently working on a freelance project  
 🌐 [Check out my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
 
 
