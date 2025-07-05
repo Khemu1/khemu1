@@ -46,6 +46,8 @@ Self-driven **Backend-leaning Full Stack Developer** passionate about building s
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize" />
 <img width="12" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongoose/mongoose-original.svg" height="40" alt="Mongoose" />
+<img width="12" />
+<img src="https://avatars.githubusercontent.com/u/110755178?s=200&v=4" height="40" alt="Drizzle ORM" />
 
 <br><br>
 
@@ -60,10 +62,21 @@ Self-driven **Backend-leaning Full Stack Developer** passionate about building s
 
 <br><br>
 
+<!-- Storage -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/cloud/aws-s3.svg" height="40" alt="AWS S3" />
+<img width="12" />
+<img src="https://avatars.githubusercontent.com/u/59522545?s=200&v=4" height="40" alt="Cloudflare R2" />
+
+<br><br>
+
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" height="40" alt="Travis CI" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions" />
 
 </div>
 
