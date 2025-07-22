@@ -65,7 +65,7 @@ A full-featured blogging platform supporting Markdown, chunked media uploads, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br><br>
 
 <!-- GitHub Streak -->
