@@ -27,6 +27,9 @@ A responsive app for video streaming with a clean UI.
 ### 📝 [Blogy](https://github.com/Khemu1/blogy)  
 A full-featured blogging platform supporting Markdown, chunked media uploads, and comment management.
 
+### 🎓 [Prime Academy](https://primeacademy.education)
+Is a modern e-learning platform that supports local and YouTube videos, interactive quizzes with prizes, and real-time student–teacher chat
+
 
 ## ⚙️ Tech Stack & Tools
 
