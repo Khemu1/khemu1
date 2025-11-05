@@ -1,68 +1,66 @@
 ## 👨‍💻 About Me
 
-I'm a self-driven **Full Stack Developer** with a strong focus on backend development, passionate about building scalable, efficient, and real-world web applications.
+I'm a **Full Stack Developer** with a strong focus on **backend architecture and scalability** — passionate about designing robust systems and building real-world, production-ready web applications.
 
+💡 Currently working on a **freelance project**  
 🐞 Debugging my own bugs since **2022**  
-📚 Currently working on a freelance project  
-🌐 [Check out my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
+🌐 [Visit my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
 
+---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🧠 [SyntaxError](https://sytnax-error.vercel.app/)
-An online course platform featuring admin dashboards, course management tools, and a dynamic quiz system.
+An **online course platform** featuring admin dashboards, course management tools, and a dynamic quiz system.
 
-### 🛒 [Omni-Store E-Commerce](https://github.com/Khemu1/Omni-Store-E-Commerce)  
-A full-featured e-commerce platform built with React and Express. Includes user auth, shopping cart, order handling, and more.
+### 🛒 [Omni-Store E-Commerce](https://github.com/Khemu1/Omni-Store-E-Commerce)
+A **full-featured e-commerce platform** built with React and Express — includes user authentication, shopping cart, and order management.
 
-### 📚 [Promptopia](https://github.com/Khemu1/promptopia)  
-A prompt-sharing app for the AI community — create, explore, and edit prompts with ease.
+### 📚 [Promptopia](https://github.com/Khemu1/promptopia)
+A **prompt-sharing app** for the AI community — create, explore, and edit prompts effortlessly.
 
-### 🔗 [Link Shortener](https://github.com/Khemu1/Code-Clause-Internship-Link-Shortner)  
-A lightweight URL shortener with click tracking and analytics.
+### 🔗 [Link Shortener](https://github.com/Khemu1/Code-Clause-Internship-Link-Shortner)
+A **lightweight URL shortener** with click tracking and analytics dashboard.
 
-### 🎥 [Video Streaming App](https://github.com/Khemu1/Code-Clause-Internship-Video-Streaming-Application)  
-A responsive app for video streaming with a clean UI.
+### 🎥 [Video Streaming App](https://github.com/Khemu1/Code-Clause-Internship-Video-Streaming-Application)
+A **responsive video streaming platform** with a sleek, intuitive interface.
 
-### 📝 [Blogy](https://github.com/Khemu1/blogy)  
-A full-featured blogging platform supporting Markdown, chunked media uploads, and comment management.
+### 📝 [Blogy](https://github.com/Khemu1/blogy)
+A **Markdown-powered blogging platform** supporting media uploads, comments, and rich content management.
 
 ### 🎓 [Prime Academy](https://primeacademy.education)
-Is a modern e-learning platform that supports local and YouTube videos, interactive quizzes with prizes, and real-time student–teacher chat
+A **modern e-learning platform** with interactive quizzes, prize systems, real-time student–teacher chat, and support for both YouTube and local video content.
 
+---
 
 ## ⚙️ Tech Stack & Tools
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=js,ts" />
-<br><br>
+### 🧠 Languages  
+<img src="https://skillicons.dev/icons?i=js,ts" /><br><br>
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,bootstrap,redux,tailwind" />
-<br><br>
+### 💻 Frontend  
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,redux,bootstrap,tailwind" /><br><br>
 
-<!-- Backend -->
+### ⚙️ Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="60" width="60" alt="Puppeteer" />
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="55" width="55" alt="Puppeteer" /><br><br>
 
-<!-- ORMs -->
+### 🧩 ORMs  
 <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" /><br><br>
 
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
-<br><br>
+### 🗄 Databases  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" /><br><br>
 
-<!-- Cloud & DevOps -->
+### ☁️ Cloud & DevOps  
 <img src="https://skillicons.dev/icons?i=supabase,aws,cloudflare,workers,docker,githubactions,postman" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-original.svg" height="40" width="40" alt="Travis CI" />
 
 </div>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -70,13 +68,19 @@ Is a modern e-learning platform that supports local and YouTube videos, interact
 
 <img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br><br>
-
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 
 </div>
 
+---
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ali-hegazy-379030254/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-hegazy-379030254/)  
+- 🌐 [Portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)  
+- 📧 [Email Me](mailto:primeacademy200110@gmail.com)
+
+---
+
+### ⚡ Quick Snapshot
+> Building modern web applications with **TypeScript, React, Node.js, and PostgreSQL** — driven by curiosity, scalability, and clean architecture.
