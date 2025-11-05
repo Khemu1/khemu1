@@ -68,7 +68,7 @@ A **lightweight URL shortener** with click tracking and analytics dashboard.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khemu1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats-seven-pi-75.vercel.app/api?username=Khemu1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 
