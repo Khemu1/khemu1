@@ -10,26 +10,26 @@ I'm a **Full Stack Developer** with a strong focus on **backend architecture and
 
 ## 🚀 Featured Projects
 
+### 🎓 [Prime Academy](https://primeacademy.education)
+A **modern e-learning platform** with interactive quizzes, prize systems, real-time student–teacher chat, and support for both YouTube and local video content.
+
 ### 🧠 [SyntaxError](https://sytnax-error.vercel.app/)
 An **online course platform** featuring admin dashboards, course management tools, and a dynamic quiz system.
 
+### 📝 [Blogy](https://github.com/Khemu1/blogy)
+A **Markdown-powered blogging platform** supporting media uploads, comments, and rich content management.
+
 ### 🛒 [Omni-Store E-Commerce](https://github.com/Khemu1/Omni-Store-E-Commerce)
 A **full-featured e-commerce platform** built with React and Express — includes user authentication, shopping cart, and order management.
+
+### 🚀 [Space Launch System](https://github.com/Khemu1/space-launch-system-)
+A platform that manages space launches and exoplanet data using NASA and SpaceX APIs, supports launch scheduling, aborts, data ingestion via CSV parser, and is deployed on AWS EC2 with Docker and PM2 for reliability.
 
 ### 📚 [Promptopia](https://github.com/Khemu1/promptopia)
 A **prompt-sharing app** for the AI community — create, explore, and edit prompts effortlessly.
 
 ### 🔗 [Link Shortener](https://github.com/Khemu1/Code-Clause-Internship-Link-Shortner)
 A **lightweight URL shortener** with click tracking and analytics dashboard.
-
-### 🎥 [Video Streaming App](https://github.com/Khemu1/Code-Clause-Internship-Video-Streaming-Application)
-A **responsive video streaming platform** with a sleek, intuitive interface.
-
-### 📝 [Blogy](https://github.com/Khemu1/blogy)
-A **Markdown-powered blogging platform** supporting media uploads, comments, and rich content management.
-
-### 🎓 [Prime Academy](https://primeacademy.education)
-A **modern e-learning platform** with interactive quizzes, prize systems, real-time student–teacher chat, and support for both YouTube and local video content.
 
 ---
 
