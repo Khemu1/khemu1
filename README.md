@@ -80,7 +80,3 @@ A **modern e-learning platform** with interactive quizzes, prize systems, real-t
 - 🌐 [Portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)  
 - 📧 [Email Me](mailto:primeacademy200110@gmail.com)
 
----
-
-### ⚡ Quick Snapshot
-> Building modern web applications with **TypeScript, React, Node.js, and PostgreSQL** — driven by curiosity, scalability, and clean architecture.
