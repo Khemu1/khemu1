@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Khemu1&color=blue&style=for-the-badge)
+
 ## 👨‍💻 About Me
 
 I'm a **Full Stack Developer** with a strong focus on **backend architecture and scalability** — passionate about designing robust systems and building real-world, production-ready web applications.
