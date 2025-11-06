@@ -68,9 +68,22 @@ A **lightweight URL shortener** with click tracking and analytics dashboard.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-seven-pi-75.vercel.app/api?username=Khemu1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemu1&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
+<!-- Overall GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-seven-pi-75.vercel.app/api?username=Khemu1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats-seven-pi-75.vercel.app/api/top-langs/?username=Khemu1&layout=compact&theme=radical&langs_count=10&hide_border=true&card_width=445&hide=java" alt="Top Languages (Java Excluded)" />
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Khemu1&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<br/>
+
+
+<!-- Profile Details (Profile Summary Card) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khemu1&theme=radical" alt="Profile Details" />
+<br/>
 
 </div>
 
