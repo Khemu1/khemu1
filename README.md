@@ -21,19 +21,19 @@
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 
 I’m a **Full Stack Developer** who loves solving complex problems through clean, scalable code.  
 My focus lies in building **resilient backend systems**, intuitive user experiences, and automation that saves people time.
 
-- 💡 Currently working on a **freelance project**  
-- ⚙️ Obsessed with performance  
-- 🧩 I love debugging — especially when it’s my own code  
-- 🌐 [Check my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)  
+- Currently working on a **freelance project**  
+- Obsessed with performance  
+- I love debugging — especially when it’s my own code  
+- [Check my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)  
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 | **Project** | **Description** |
 |----------------|--------------------|
@@ -51,17 +51,17 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 
 <div align="center">
 
-### 🧠 Languages  
+### Languages  
 <img src="https://skillicons.dev/icons?i=js,ts" /><br><br>
 
-### 💻 Frontend  
+### Frontend  
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,redux,bootstrap,tailwind" /><br><br>
 
-### ⚙️ Backend  
+### Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="50" width="50" alt="Puppeteer" /><br><br>
 
-### 🧩 ORMs  
+### ORMs  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=prisma,sequelize" height="40" alt="Prisma & Sequelize" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
@@ -69,10 +69,10 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 </div>
 <br><br>
 
-### 🗄 Databases  
+### Databases  
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" /><br><br>
 
-### ☁️ Cloud & DevOps  
+### Cloud & DevOps  
 <img src="https://skillicons.dev/icons?i=aws,supabase,cloudflare,workers,docker,githubactions,postman" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-original.svg" height="40" width="40" alt="Travis CI" />
 
@@ -80,7 +80,7 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <div align="center">
 
@@ -99,7 +99,7 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 
 ---
 
-## 🤝 Connect With Me  
+## Connect With Me  
 
 <div align="center">
 
@@ -112,5 +112,5 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 ---
 
 <p align="center">
-  💙 Crafted with passion, precision & JavaScript ⚡  
+   Crafted with passion, precision & JavaScript
 </p>
