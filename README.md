@@ -29,7 +29,8 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 - Currently working on a **freelance project**  
 - Obsessed with performance  
 - I love debugging — especially when it’s my own code  
-- [Check my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)  
+- [Check my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
+- [upwork](https://www.upwork.com/freelancers/~011d917b1673a6f558?mp_source=share)  
 
 ---
 
