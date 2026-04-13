@@ -38,6 +38,7 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 
 | **Project** | **Description** |
 |----------------|--------------------|
+| ☁️ [**CloudKode Mentor**](https://mentor.cloudkode.io/) | A full-featured **mentorship platform** supporting 1-on-1 and group sessions, LinkedIn SSO, Google Meet integration, Redis booking locks, Puppeteer badge generation, and PostHog analytics.
 | 🎓 [**Prime Academy**](https://primeacademy.education) | A full-featured **e-learning platform** with real-time chat, quizzes, and video streaming (YouTube & local). |
 | 🎓 [**IK Academy**](https://github.com/Khemu1/IK) | Backend for a freelance e-learning platform — role-based access (students, teachers, assistants, admins), real-time chat via Socket.IO, live video rooms via 100ms, Cloudflare R2 uploads, and Paymob payments.
 | 🧠 [**SyntaxError**](https://sytnax-error.vercel.app/) | A **course management platform** featuring admin tools, analytics, and a dynamic quiz system. |
