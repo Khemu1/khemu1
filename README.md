@@ -43,10 +43,6 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 | 🧠 [**SyntaxError**](https://sytnax-error.vercel.app/) | A **course management platform** featuring admin tools, analytics, and a dynamic quiz system. |
 | 📝 [**Blogy**](https://github.com/Khemu1/blogy) | A **Markdown-based blogging system** with media uploads and full comment support. |
 | 🛒 [**Omni-Store E-Commerce**](https://github.com/Khemu1/Omni-Store-E-Commerce) | A **React + Express** e-commerce app with authentication, cart, and order tracking. |
-| 🚀 [**Space Launch System**](https://github.com/Khemu1/space-launch-system-) | Handles **NASA / SpaceX launch data**, scheduling, and AWS EC2 deployment with Docker & PM2. |
-| 📚 [**Promptopia**](https://github.com/Khemu1/promptopia) | A **prompt-sharing hub** for the AI community — create and discover prompts easily. |
-| 🔗 [**Link Shortener**](https://github.com/Khemu1/Code-Clause-Internship-Link-Shortner) | A simple yet powerful **URL shortener** with click tracking and analytics. |
-
 ---
 
 ## ⚙️ Tech Stack  
