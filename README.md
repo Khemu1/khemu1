@@ -26,7 +26,7 @@
 I’m a **Full Stack Developer** who loves solving complex problems through clean, scalable code.  
 My focus lies in building **resilient backend systems**, intuitive user experiences, and automation that saves people time.
 
-- Currently working on a **freelance project**  
+- Currently playing around with nest js  
 - Obsessed with performance  
 - I love debugging — especially when it’s my own code  
 - [Check my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
