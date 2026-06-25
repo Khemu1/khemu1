@@ -37,14 +37,13 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 ## Featured Projects  
 
 | **Project** | **Description** |
-|----------------|--------------------|
-| ☁️ [**CloudKode Mentor**](https://mentor.cloudkode.io/) | A full-featured **mentorship platform** supporting 1-on-1 and group sessions, LinkedIn SSO, Google Meet integration, Redis booking locks, Puppeteer badge generation, and PostHog analytics.
+|----------------|-------------------|
+| 🏥 **Health Bridge** | A **doctor-patient booking platform** with AI chatbot streaming via SSE, Google Meet integration, Redis distributed locking, bilingual Arabic/English support, and async booking optimization (2–3s → 500ms). |
+| ☁️ [**CloudKode Mentor**](https://mentor.cloudkode.io/) | A full-featured **mentorship platform** supporting 1-on-1 and group sessions, LinkedIn OAuth + People API, Google Meet & Reports API, Redis booking locks, Puppeteer badge generation, and Gmail API notifications. |
 | 🎓 [**Prime Academy**](https://primeacademy.education) | A full-featured **e-learning platform** with real-time chat, quizzes, and video streaming (YouTube & local). |
-| 🎓 [**IK Academy**](https://github.com/Khemu1/IK) | Backend for a freelance e-learning platform — role-based access (students, teachers, assistants, admins), real-time chat via Socket.IO, live video rooms via 100ms, Cloudflare R2 uploads, and Paymob payments.
-| 🧠 [**SyntaxError**](https://sytnax-error.vercel.app/) | A **course management platform** featuring admin tools, analytics, and a dynamic quiz system. |
-| 📝 [**Blogy**](https://github.com/Khemu1/blogy) | A **Markdown-based blogging system** with media uploads and full comment support. |
-| 🛒 [**Omni-Store E-Commerce**](https://github.com/Khemu1/Omni-Store-E-Commerce) | A **React + Express** e-commerce app with authentication, cart, and order tracking. |
----
+| 🎓 [**IK Academy**](https://github.com/Khemu1/IK) | Backend for a freelance e-learning platform — role-based access, real-time chat via Socket.IO, live video via 100ms, Cloudflare R2 uploads, and Paymob payments. |
+| 📝 [**Blogy**](https://github.com/Khemu1/blogy) | A **Markdown-based blogging system** with media uploads, Redis rate limiting, Jest tests, and CI/CD via GitHub Actions. |
+| 🛒 [**Omni-Store**](https://github.com/Khemu1/Omni-Store-E-Commerce) | A **React + Express** e-commerce app with authentication, cart, and order tracking. |
 
 ## ⚙️ Tech Stack  
 
