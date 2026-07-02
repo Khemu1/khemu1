@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#FF0066;">Ali (Khemu)</span></h1>
-<h3 align="center">💻 Full Stack Developer</h3>
+<h3 align="center">💻 Backend Developer | Fullstack when the project calls for it</h3>
 
 <p align="center">
   <a href="https://my-portfolio-eta-ecru-74.vercel.app/" target="_blank">
@@ -23,27 +23,28 @@
 
 ## About Me  
 
-I’m a **Full Stack Developer** who loves solving complex problems through clean, scalable code.  
-My focus lies in building **resilient backend systems**, intuitive user experiences, and automation that saves people time.
+I'm a **Backend Developer** who loves solving complex problems through clean, scalable code — distributed locking, race condition handling, and API performance are where I spend most of my energy. I also build fullstack when a project needs one person to own the whole stack.
 
 - Currently playing around with nest js  
 - Obsessed with performance  
-- I love debugging — especially when it’s my own code  
-- [Check my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)
-- [upwork](https://www.upwork.com/freelancers/~011d917b1673a6f558?mp_source=share)  
+- I love debugging — especially when it's my own code  
+- 📁 **[See my full project write-ups, screenshots & demos on my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)**
+- [Upwork](https://www.upwork.com/freelancers/~011d917b1673a6f558?mp_source=share)  
 
 ---
 
 ## Featured Projects  
 
-| **Project** | **Description** |
-|----------------|-------------------|
-| 🏥 **Health Bridge** | A **doctor-patient booking platform** with AI chatbot streaming via SSE, Google Meet integration, Redis distributed locking, bilingual Arabic/English support, and async booking optimization (2–3s → 500ms). |
-| ☁️ [**CloudKode Mentor**](https://mentor.cloudkode.io/) | A full-featured **mentorship platform** supporting 1-on-1 and group sessions, LinkedIn OAuth + People API, Google Meet & Reports API, Redis booking locks, Puppeteer badge generation, and Gmail API notifications. |
-| 🎓 [**Prime Academy**](https://primeacademy.education) | A full-featured **e-learning platform** with real-time chat, quizzes, and video streaming (YouTube & local). |
-| 🎓 [**IK Academy**](https://github.com/Khemu1/IK) | Backend for a freelance e-learning platform — role-based access, real-time chat via Socket.IO, live video via 100ms, Cloudflare R2 uploads, and Paymob payments. |
-| 📝 [**Blogy**](https://github.com/Khemu1/blogy) | A **Markdown-based blogging system** with media uploads, Redis rate limiting, Jest tests, and CI/CD via GitHub Actions. |
-| 🛒 [**Omni-Store**](https://github.com/Khemu1/Omni-Store-E-Commerce) | A **React + Express** e-commerce app with authentication, cart, and order tracking. |
+> 🔒 Some of these were built for clients or as part of a team, so the source lives under their accounts, not mine. Full breakdowns, screenshots, and my specific role on each are on **[my portfolio](https://my-portfolio-eta-ecru-74.vercel.app/)**.
+
+| **Project** | **Description** | **Source** |
+|----------------|-------------------|-------------|
+| 🏥 **Health Bridge** | A **doctor-patient booking platform** with AI chatbot streaming via SSE, Google Meet integration, Redis distributed locking, bilingual Arabic/English support, and async booking optimization (2–3s → 500ms). | Source owned by team lead — [portfolio write-up](https://my-portfolio-eta-ecru-74.vercel.app/) |
+| ☁️ **CloudKode Mentor** | A full-featured **mentorship platform** supporting 1-on-1 and group sessions, LinkedIn OAuth + People API, Google Meet & Reports API, Redis booking locks, Puppeteer badge generation, and Gmail API notifications. | [Live](https://mentor.cloudkode.io/) ·  Private (client project) |
+| 🎓 **Prime Academy** | A full-featured **e-learning platform** with real-time chat, quizzes, and video streaming (YouTube & local), containerized with a multi-service Docker Compose setup. | [Live](https://primeacademy.education) ·  Private (client project) |
+| 🎓 **IK Academy** | Backend for a freelance e-learning platform — role-based access, real-time chat via Socket.IO, live video via 100ms, Cloudflare R2 uploads, and Paymob payments. | [Repo](https://github.com/Khemu1/IK) *(project paused/cancelled by client — code reflects work in progress)* |
+| 📝 **Blogy** | A **Markdown-based blogging system** with media uploads, Redis rate limiting, Jest tests, and CI/CD via GitHub Actions. | [Repo](https://github.com/Khemu1/blogy) |
+| 🛒 **Omni-Store** | A **React + Express** e-commerce app with authentication, cart, and order tracking. | [Repo](https://github.com/Khemu1/Omni-Store-E-Commerce) |
 
 ## ⚙️ Tech Stack  
 
@@ -52,12 +53,12 @@ My focus lies in building **resilient backend systems**, intuitive user experien
 ### Languages  
 <img src="https://skillicons.dev/icons?i=js,ts" /><br><br>
 
-### Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,redux,bootstrap,tailwind" /><br><br>
-
 ### Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="50" width="50" alt="Puppeteer" /><br><br>
+
+### Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,redux,bootstrap,tailwind" /><br><br>
 
 ### ORMs  
 <div align="center">
