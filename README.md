@@ -39,7 +39,7 @@ I'm a **Backend Developer** who loves solving complex problems through clean, sc
 
 | **Project** | **Description** | **Source** |
 |----------------|-------------------|-------------|
-| 🏥 **Health Bridge** | A **doctor-patient booking platform** with AI chatbot streaming via SSE, Google Meet integration, Redis distributed locking, bilingual Arabic/English support, and async booking optimization (2–3s → 500ms). | Source owned by team lead — [portfolio write-up](https://my-portfolio-eta-ecru-74.vercel.app/) |
+| 🏥 **Health Bridge** | A **doctor-patient booking platform** with AI chatbot streaming via SSE, Google Meet integration, Redis distributed locking, bilingual Arabic/English support, and async booking optimization (2–3s → 500ms). | Source owned by team lead — [portfolio write-up](https://my-portfolio-eta-ecru-74.vercel.app/#projects) |
 | ☁️ **CloudKode Mentor** | A full-featured **mentorship platform** supporting 1-on-1 and group sessions, LinkedIn OAuth + People API, Google Meet & Reports API, Redis booking locks, Puppeteer badge generation, and Gmail API notifications. | [Live](https://mentor.cloudkode.io/) ·  Private (client project) |
 | 🎓 **Prime Academy** | A full-featured **e-learning platform** with real-time chat, quizzes, and video streaming (YouTube & local), containerized with a multi-service Docker Compose setup. | [Live](https://primeacademy.education) ·  Private (client project) |
 | 🎓 **IK Academy** | Backend for a freelance e-learning platform — role-based access, real-time chat via Socket.IO, live video via 100ms, Cloudflare R2 uploads, and Paymob payments. | [Repo](https://github.com/Khemu1/IK) *(project paused/cancelled by client — code reflects work in progress)* |
